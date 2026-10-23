@@ -1,10 +1,9 @@
-# Tydé — Legal
+# Tyde-iOS-Legal
 
-This repository hosts the Privacy Policy and Terms of Use for the Tydé iOS app.
+Moved. Tydé's privacy policy, terms of use and support page now live on Garrett Franks's site:
 
-**Live page:** https://gfranks.github.io/Tyde-iOS-Legal
+- Privacy Policy: https://gfranks.github.io/tyde/privacy/
+- Terms of Use: https://gfranks.github.io/tyde/terms/
+- Support: https://gfranks.github.io/tyde/support/
 
-## App
-
-Tydé is an ADHD-friendly cleaning planner for iOS — one room a day, sorted
-by effort, with a spin-the-wheel mechanic for decision paralysis.
+This repo stays up so old links keep working: its pages redirect there (`#privacy`, `#terms` and `support.html` go to the matching page). Edit the policies in [gfranks/gfranks.github.io](https://github.com/gfranks/gfranks.github.io), not here.
